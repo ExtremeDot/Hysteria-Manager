@@ -17,12 +17,11 @@
 برای اجرای اسکریپت مدیریت، ابتدا کد اسکریپت را در یک فایل (مثلاً `hysteria.sh`) ذخیره کرده، به آن دسترسی اجرایی بدهید و با کاربر `root` اجرا کنید:
 
 ```
-curl -Lo hysteria-manager.sh https://raw.githubusercontent.com/ExtremeDot/Hysteria-Manager/main/hysteria-manager.sh
-
-```
-
-```
+curl -Lo hysteria-manager.sh https://raw.githubusercontent.com/ExtremeDot/Hysteria-Manager/main/hysteria-manger.sh
 chmod +x hysteria-manager.sh
+```
+
+```
 sudo ./hysteria-manager.sh
 ```
 ---
